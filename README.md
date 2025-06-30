@@ -18,19 +18,11 @@ Controls
 - CSS (inline)
 - JavaScript (pure, no libraries)
 
- Screenshot
-> _(Optional)_ Add a screenshot of your cube interface here
 
  How to Run
 Just open the `index.html` file in your browser!
 
- Live Demo
-> Link (after GitHub Pages is enabled)
 
-Internship Assignment
-This project was submitted for the Educase India internship selection process to demonstrate frontend logic and algorithm development.
 
----
-
-🛠️ Developed by: A.Akash  
-📅 Year: 2025
+Developed by: A.Akash  
+Year: 2025
